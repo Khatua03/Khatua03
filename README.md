@@ -1,7 +1,5 @@
-- 👋 Hi, I’m DP Khatua
-- 👀 I’m interested in Python programming skills
-- 🌱 Currently, I am a postdoctoral scholar at UCLA
-- 💞️ I’m looking to collaborate on python programming skill and any topics that related Ultrafast spectroscopy and TMDC materials
+- 👋 Hi, I’m Durga Prasad Khatua
+- 🌱 Currently, I am a postdoctoral scholar at UCLA working in Spherical Tokamak based plasma fusion
 - 📫 How to reach me "khatuadurgaprasad03@gmail.com"
 
 <!---
